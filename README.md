@@ -3,7 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - 🔭 I’m currently working in an Operations 
 - 🌱 I’m Interested to work on Cloud Security
-- 👯 I’m making the world better by PRs 
 - 💬 Ask me about Technology & Arts
 - 📫 How to reach me: abhishekbagade15@gmail.com
 
