@@ -1,10 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abhishek Bagade
 ======================================================================================================================================
 
-- 🔭 I’m currently working in an Operations 
-- 🌱 I’m Interested to work on Cloud Security
-- 💬 Ask me about Technology & Arts
-- 📫 How to reach me: abhishekbagade15@gmail.com
 
 
 <h3 align="left">Languages:</h3>
