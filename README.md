@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhishek Bagade</h1>
 <h3 align="center">A passionate Cloud Engineer from India</h3>
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+
 - 🔭 I’m currently working on **AI Chatbot for IT Support on AWS**
 
 - 🌱 I’m currently learning **AWS Solutions Architect concepts, Azure DevOps pipelines, and Docker security**
