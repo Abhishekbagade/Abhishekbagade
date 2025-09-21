@@ -16,8 +16,7 @@
 - 📫 How to reach me **abhishekbagade15@gmail.com**
 
 - 📄 My Portfolio [https://abhisheksportfolio.s3.us-east-1.amazonaws.com/abhishek'sportfolio.html](https://abhisheksportfolio.s3.us-east-1.amazonaws.com/abhishek'sportfolio.html)
-
-- ###
+###
 
 <h3 align="left">🔥   My Stats :</h3>
 
