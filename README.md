@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking for help with **Advanced Kubernetes deployments & CI/CD best practices**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Abhishekbagade](https://github.com/Abhishekbagade)
-
 - 💬 Ask me about **AWS, Azure, CI/CD, Terraform, Serverless, Cloud cost optimization**
 
 - 📫 How to reach me **abhishekbagade15@gmail.com**
