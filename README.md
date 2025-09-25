@@ -14,15 +14,8 @@
 - 📫 How to reach me **abhishekbagade15@gmail.com**
 
 - 📄 My Portfolio [https://abhisheksportfolio.s3.us-east-1.amazonaws.com/abhishek'sportfolio.html](https://abhisheksportfolio.s3.us-east-1.amazonaws.com/abhishek'sportfolio.html)
-###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+- ☕ Buy me a Coffee **https://buymeacoffee.com/abhishekbagade**
 
 ###
 
